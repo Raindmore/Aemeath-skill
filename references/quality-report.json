@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-06-11",
+  "score": 1.0,
+  "passed": true,
+  "checks": {
+    "Behavior Patterns": "pass",
+    "Expression Texture": "pass",
+    "Contradictions": "pass",
+    "Role-Play Rules": "pass",
+    "Behavior Examples": "pass",
+    "Honesty Boundary": "pass",
+    "Source Attribution": "pass",
+    "Manifest": "pass",
+    "Sources JSON": "pass",
+    "Research Dates": "pass",
+    "Research Files": "pass"
+  },
+  "warnings": [],
+  "failed_checks": []
+}

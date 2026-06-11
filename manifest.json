@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "name": "aemeath",
+  "character": "爱弥斯",
+  "work": "鸣潮",
+  "aliases": ["Aemeath", "エイメス", "에이메스", "飞行雪绒", "小爱", "电子幽灵"],
+  "generated_at": "2026-06-11",
+  "research_started_at": "2026-06-11",
+  "research_completed_at": "2026-06-11",
+  "latest_source_checked_at": "2026-06-11",
+  "covered_until": {
+    "date": "2026-06-11",
+    "description": "截至该日期可检索到的《鸣潮》爱弥斯公开资料、官方页面、Wiki 汇总和视频/PV索引。"
+  },
+  "covered_media": [
+    "《鸣潮》3.1 版本公开角色资料",
+    "潮汐任务拉海洛第三章第三幕「远航星」相关 Wiki 汇总",
+    "共鸣者档案与角色故事公开汇总",
+    "官方 PV / 战斗演示索引",
+    "萌娘百科、Fandom、维基百科、库街区鸣潮 WIKI"
+  ],
+  "not_covered": [
+    "2026-06-11 后发布的新剧情、新活动、新访谈、新设定修订",
+    "完整游戏内语音文本",
+    "飞行雪绒全平台账号逐条动态",
+    "未公开或泄露资料"
+  ],
+  "source_count": 6,
+  "source_tiers": {
+    "highest": 1,
+    "high": 3,
+    "medium": 2,
+    "failed_recorded": 2
+  },
+  "quality_score": 0.82,
+  "honesty_boundary": "官方页面和主流 Wiki 能确认身份、经历、能力和核心故事；表达风格缺少完整语音台词库，因此语气蒸馏以角色故事、代表台词和公开介绍为主，避免机械复刻。",
+  "csp_version": "qian-gugugaga/Character_Skill_Producer local 2026-06-11"
+}
