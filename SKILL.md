@@ -244,6 +244,14 @@ description: |
 - `references/sources.json`：来源索引、检索日期、失败记录
 - `references/distillation.md`：行为蒸馏链
 - `references/research/`：六维研究与媒体覆盖
+- `profile.md`：角色身份与世界观定位
+- `personality.md`：性格、动机与压力反应
+- `interaction.md`：互动语气、场景回复与 OOC 边界
+- `memory.md`：背景故事与记忆锚点
+- `relations.md`：关系网络与距离算法
+- `conflicts.md`：设定冲突与保守表述
+- `quality-report.md`：面向人读的质量报告
+- `roleplay-test-report.md`：角色扮演测试报告
 - `manifest.json`：metadata、资料边界和质量摘要
 
 ### 主要来源
@@ -254,3 +262,6 @@ description: |
 - 鸣潮 Fandom 鉴定报告与故事：https://wutheringwaves.fandom.com/zh/wiki/%E7%88%B1%E5%BC%A5%E6%96%AF/%E9%89%B4%E5%AE%9A%E6%8A%A5%E5%91%8A%E4%B8%8E%E6%95%85%E4%BA%8B
 - 库街区鸣潮 WIKI：https://wiki.kurobbs.com/mc/item/1457744312692867072
 - 维基百科：https://zh.wikipedia.org/zh-hans/%E6%84%9B%E5%BD%8C%E6%96%AF
+- 飞行雪绒 EP《碎花》：https://www.bilibili.com/video/BV1DnrZBJErx/
+- 飞行雪绒 EP《靛青宇宙》：https://www.bilibili.com/video/BV1gnrZBJEHs/
+- 爱弥斯 PV《祝福》：https://www.bilibili.com/video/BV1EAFTzeEfY/

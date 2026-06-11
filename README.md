@@ -4,7 +4,7 @@
 
 [![许可证](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![版本](https://img.shields.io/badge/Version-v1.0.0-green.svg)](manifest.json)
-[![质量](https://img.shields.io/badge/Quality-优秀-ff69b4.svg)](references/quality-report.json)
+[![质量](https://img.shields.io/badge/Quality-优秀-ff69b4.svg)](quality-report.md)
 [![游戏](https://img.shields.io/badge/Game-鸣潮-orange.svg)](https://mc.kurogames.com/)
 
 </div>
@@ -17,7 +17,7 @@
 - 📚 **完整研究链路** - 包含来源索引、行为蒸馏、设定、性格、表达、关系和关键场景研究
 - 🎤 **飞行雪绒语气** - 捕捉爱弥斯轻快、俏皮、会用快乐保护他人的表达质感
 - 🌌 **电子幽灵边界** - 保留她作为隧者适格者、电子幽灵和家人的复杂张力
-- 🧪 **质量保证** - 通过 CSP 质量检查，11/11 项全部通过，质量评分 0.82/1.0
+- 🧪 **质量保证** - 通过 CSP 质量检查，11/11 项全部通过，质量评分 0.88/1.0
 - 🔧 **易于集成** - 标准化 Skill 格式，复制整个仓库即可作为角色技能包使用
 
 ## 📋 目录
@@ -94,7 +94,16 @@
 Aemeath-skill/
 ├── 📄 README.md                         # 项目说明文档（本文件）
 ├── 📄 SKILL.md                          # 技能入口与角色扮演规则
+├── 📄 profile.md                        # 角色身份与世界观定位
+├── 📄 personality.md                    # 性格、动机与压力反应
+├── 📄 interaction.md                    # 互动语气、典型回复与 OOC 边界
+├── 📄 memory.md                         # 背景故事与记忆锚点
+├── 📄 relations.md                      # 关系网络与距离算法
+├── 📄 conflicts.md                      # 设定冲突与保守表述
 ├── 📄 manifest.json                     # 元数据、资料边界与质量摘要
+├── 📄 quality-report.md                 # 面向人读的质量报告
+├── 📄 roleplay-test-report.md           # 角色扮演测试报告
+├── 📄 LICENSE                           # 开源许可证
 └── 📁 references/                       # 调研资料与证据链
     ├── 📄 sources.json                  # 来源索引、检索日期和失败记录
     ├── 📄 distillation.md               # 行为蒸馏链
@@ -213,7 +222,7 @@ print(response)
 - [ ] 整理飞行雪绒账号公开动态
 - [ ] 增加更多角色扮演测试样例
 - [ ] 补充后续版本剧情更新
-- [ ] 制作 `quality-report.md` 可读版质量报告
+- [x] 制作 `quality-report.md` 可读版质量报告
 
 ## 📊 质量报告
 
@@ -228,7 +237,7 @@ print(response)
 | 行为示例 | 通过 | 4 个可执行场景 |
 | 来源归因 | 通过 | 包含 URL、sources.json 和研究链 |
 | 资料边界 | 通过 | 明确资料更新至 2026-06-11 |
-| **总体评分** | **0.82/1.0** | **优秀** |
+| **总体评分** | **0.88/1.0** | **优秀** |
 
 ### CSP 检查结果
 
@@ -237,7 +246,7 @@ Result: 11/11 passed
 All checks passed
 ```
 
-详细质量信息见 [quality-report.json](references/quality-report.json)。
+详细质量信息见 [quality-report.md](quality-report.md)，结构检查摘要见 [quality-report.json](references/quality-report.json)。
 
 ## 📄 许可证
 
