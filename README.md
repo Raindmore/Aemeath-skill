@@ -48,7 +48,7 @@
 1. **下载项目**
 
    ```bash
-   git clone https://github.com/liukai2218/Aemeath-skill.git
+   git clone https://github.com/Raindmore/Aemeath-skill.git
    cd Aemeath-skill
    ```
 
@@ -274,8 +274,8 @@ All checks passed
 ## 🔗 相关链接
 
 - [《鸣潮》官方网站](https://mc.kurogames.com/)
-- [仓库地址](https://github.com/liukai2218/Aemeath-skill)
-- [问题反馈](https://github.com/liukai2218/Aemeath-skill/issues)
+- [仓库地址](https://github.com/Raindmore/Aemeath-skill)
+- [问题反馈](https://github.com/Raindmore/Aemeath-skill/issues)
 
 ---
 
