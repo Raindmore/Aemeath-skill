@@ -14,6 +14,20 @@
     "warnings": ["网页正文抽取不完整，使用搜索结果与 Fandom 官方介绍转述交叉确认。"]
   },
   {
+    "id": "user-official-memory-2026-06-12",
+    "source": "user_provided_official_material",
+    "title": "memory.md - 爱弥斯 3.0-3.3 最新剧情整理",
+    "url": "references/user-material/official-memory-2026-06-12.md",
+    "source_tier": "highest",
+    "officiality": "user_provided_official",
+    "media_type": "story_memory",
+    "language": "zh",
+    "retrieved_at": "2026-06-12",
+    "content_hash": null,
+    "status": "ok",
+    "warnings": ["用户声明该文件包含官方最新剧情；已作为最高优先级用户提供材料用于更新 3.3 时间线、归来状态和漂泊者关系。"]
+  },
+  {
     "id": "moegirl-aemeath",
     "source": "moegirl",
     "title": "爱弥斯 - 萌娘百科",
